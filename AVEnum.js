@@ -159,5 +159,7 @@ results += "#######################################\n";
 
 //console.log(results);
 
-return resunts
+return results
 }
+
+//AVEnum()
