@@ -65,7 +65,7 @@ This is a simple JXA file to provide situational awareness on security products 
 
 **To run remotely via Mythic:**
 
-Download this script and run via Mythic:
+Download this script and run via Mythic. Once you have your Mythic shell (via apfell payload), run the following commands in Mythic:
 
 1. > jsimport AVEnum.js
 2. > jsimport_call AVEnum()
