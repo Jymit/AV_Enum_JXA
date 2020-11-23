@@ -65,7 +65,7 @@ This is a simple JXA file to provide situational awareness on security products 
 
 **To run remotely via Mythic:**
 
-Download this SwiftBelt-JXA.js and via Mythic:
+Download this script and run via Mythic:
 
 1. > jsimport AVEnum.js
 2. > jsimport_call AVEnum()
